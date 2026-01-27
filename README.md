@@ -25,21 +25,23 @@ const serendeep = {
     pronouns: "he" | "him",
     location: "India 🇮🇳",
     role: "Full Stack Developer",
-    currentFocus: ["Docker 🐳", "Go 🔵", "Kotlin Multiplatform 📱", "NestJS 🐈"],
+    currentFocus: ["Rust 🦀", "Legal Tech ⚖️", "Docker 🐳", "Go 🔵", "Package Managers 📦"],
     askMeAbout: ["Flutter", "Web Dev", "Mobile Apps", "Cloud Architecture"],
     technologies: {
+        languages: ["Rust", "Python", "JavaScript", "Dart", "Go", "Bash"],
         mobile: ["Flutter", "Dart", "Kotlin"],
         frontEnd: ["JavaScript", "Vue.js", "Next.js", "HTML", "CSS"],
-        backEnd: ["Python", "Flask", "NestJS", "Go", "Node.js"],
+        backEnd: ["Rust", "Python", "Flask", "NestJS", "Go", "Node.js"],
         databases: ["MySQL", "PostgreSQL", "Redis", "SQLite", "Firebase"],
         devOps: ["Docker", "AWS", "Azure", "GCP", "Jenkins"],
         tools: ["Git", "Postman", "Figma", "Photoshop", "Illustrator"],
-        learning: ["Kotlin MP", "Advanced Docker", "Microservices"]
+        learning: ["Rust Systems Programming", "Legal Tech", "Advanced Docker"]
     },
     architecture: ["Microservices", "Event-Driven", "Serverless", "Progressive Web Apps"],
     currentProjects: [
+        "🦀 brew-rs - Homebrew package manager in Rust",
+        "⚖️ L3 Stack Architecture for Legal Document Generation",
         "🖥️ PowerShell Profile Enhancement",
-        "📧 Bulk Mailer Script",
         "🚀 Open Source Contributions"
     ],
     funFact: "I'll blurt out the most random fact based on the most random conversation! 🎲"
@@ -56,11 +58,13 @@ const serendeep = {
 
 <div align="center">
 
-🔭 Working on **[PowerShell Profile](https://github.com/Serendeep/powershell-profile)** - Making terminal life easier!
+🔭 Working on **[brew-rs](https://github.com/brew-rs)** - Building a modern Homebrew package manager in Rust
+
+🏗️ Building **L3 Stack Architecture for Legal Document Generation** - Innovative solutions for legal tech
 
 🌱 Deep diving into **Docker, Go, Kotlin Multiplatform & NestJS**
 
-👯 Looking to collaborate on **[Bulk Mailer](https://github.com/Serendeep/bulkmailer)** and other open source projects
+👯 Looking to collaborate on open source Rust projects and legal tech innovations
 
 💬 Ask me about **Flutter, Mobile Development, and anything tech!**
 
@@ -90,6 +94,7 @@ const serendeep = {
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -173,6 +178,14 @@ const serendeep = {
 <div align="center">
 
 ## 💼 Featured Projects
+
+<a href="https://github.com/brew-rs/core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brew-rs&repo=core&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/brew-rs/homebrew-rust">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brew-rs&repo=homebrew-rust&theme=radical&hide_border=true" />
+</a>
 
 <a href="https://github.com/Serendeep/powershell-profile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serendeep&repo=powershell-profile&theme=radical&hide_border=true" />
