@@ -22,7 +22,7 @@
 
 ```typescript
 const serendeep = {
-    pronouns: "he" | "him",
+    pronouns: "he/him",
     location: "India 🇮🇳",
     role: "Full Stack Developer",
     currentFocus: ["Rust 🦀", "Legal Tech ⚖️", "Docker 🐳", "Go 🔵", "Package Managers 📦"],
@@ -167,9 +167,13 @@ const serendeep = {
 
 <div align="center">
 
-## 📈 Contribution Snake
+## 📈 Contribution Activity
 
+<!-- Uncomment after setting up GitHub Action workflow for snake generation
 ![Snake animation](https://raw.githubusercontent.com/serendeep/serendeep/output/github-contribution-grid-snake-dark.svg)
+-->
+
+*GitHub contribution metrics are displayed in the stats section above*
 
 </div>
 
