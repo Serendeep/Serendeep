@@ -39,7 +39,7 @@ Outside of shipping code, I'm interested in open source tooling, how package man
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=serendeep&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=serendeep&theme=dark&hide_border=true" alt="GitHub Streak" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Serendeep" alt="GitHub Streak" /></a>
 </p>
 
 ---
