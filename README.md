@@ -28,8 +28,8 @@ I've also landed a few fixes in [T3 Code](https://github.com/pingdotgg/t3code/pu
 - [Your Coding Agent Has Amnesia: It's the Harness, Not the Model](https://blog.serendeep.tech/blog/your-coding-agent-has-amnesia)
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=serendeep4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=serendeep4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" alt="Currently playing on Spotify" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=serendeep4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Currently playing on Spotify" />
   </a>
 </p>
 
